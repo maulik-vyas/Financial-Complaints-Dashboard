@@ -18,3 +18,4 @@ Designed and developed a Financial Complaints Dashboard, providing detailed brea
 📁 Project File
 
 Download the PBIX file directly from this repository.
+[Financial Complaints Dashboard.png](https://github.com/maulik-vyas/Financial-Complaints-Dashboard/blob/main/Financial%20Complaints%20Dashboard.png)
